@@ -14,4 +14,4 @@ I love combining tech with visuals and datasets to optimize systems/solutions, a
 
 Thanks for stopping by my GitHub — feel free to explore my repos!
 
-[![My Skills](https://skillicons.dev/icons?i=apple,c,css,eclipse,github,html,java,idea,ocaml,pycharm,py,vscode,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,css,html,java,ocaml,py,vscode,mysql)](https://skillicons.dev)
